@@ -2,7 +2,7 @@
 
 My friends and I sometimes love to buy second-hand music instruments（guitars，amps）on yahoo<br>
 This is a Python script which do bulk search instead of you<br>
-It will send you Email if it has found something you want
+It will send you an Email if it finds something you want<br>
 To begin with:<br>
 Step1.write a csv file<br>
 for example:<br>
